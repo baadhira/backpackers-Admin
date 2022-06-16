@@ -1,0 +1,30 @@
+.header{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.search_bar{
+    background-color:white;
+    padding:10px;
+    border-radius:40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+    
+    
+}
+
+.search_bar i{
+    color:grey;
+    margin: 10px;
+}
+.search_bar input{
+    border:none;
+    outline:none;
+}
+.navbar{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+}
